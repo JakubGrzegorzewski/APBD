@@ -4,6 +4,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "APBD", "APBD\APBD.csproj", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson1", "Lesson1\Lesson1.csproj", "{B2634F6E-103A-4D2E-9AC2-5CB5412F622F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tast1", "Tast1\Tast1.csproj", "{B988546D-D1B4-49F3-830D-10BA5576FF74}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{B2634F6E-103A-4D2E-9AC2-5CB5412F622F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B2634F6E-103A-4D2E-9AC2-5CB5412F622F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B2634F6E-103A-4D2E-9AC2-5CB5412F622F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B988546D-D1B4-49F3-830D-10BA5576FF74}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B988546D-D1B4-49F3-830D-10BA5576FF74}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B988546D-D1B4-49F3-830D-10BA5576FF74}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B988546D-D1B4-49F3-830D-10BA5576FF74}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
